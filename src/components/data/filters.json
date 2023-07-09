@@ -1,0 +1,37 @@
+{
+    "data":{
+    "mobile":[
+        "categories",
+        "brands",
+        "Price and Deals",
+        "Customers Reviews",
+        "interal Memory",
+        "Item Weight",
+        "Processor Speed",
+        "Battery Capacity",
+        "Colour"
+    ],
+    "clothing":[
+        "categories",
+        "brands",
+        "Price and Deals",
+        "Customers Reviews",
+        "interal Memory",
+        "Item Weight",
+        "Processor Speed",
+        "Battery Capacity",
+        "Colour"
+    ],
+    "Groceries":[
+        "categories",
+        "brands",
+        "Price and Deals",
+        "Customers Reviews",
+        "interal Memory",
+        "Item Weight",
+        "Processor Speed",
+        "Battery Capacity",
+        "Colour"
+    ]
+}
+}
